@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! 👋
 
-I am a 2nd year undergraduate student exploring various programming languages beyond my curriculum. Here on my GitHub profile, I keep track of my learning journey and store my projects and code from university.
+My name is Mike Molchanov, aka killer(my nickname from games), and I am a 2nd year undergraduate student exploring various programming languages beyond my curriculum. Here on my GitHub profile, I keep track of my learning journey and store my projects and code from university.
 
 ## About Me 🙋‍♀️
 
