@@ -1,12 +1,21 @@
-# Hi there, I'm Mike, aka kiIIer
+# Hi there 👋 I'm Mike, aka kiIIer
+
+
 
 I'm a **4th-year Computer Science student** and a passionate **back-end developer** with over **3 years of experience** building scalable, secure systems. I love tackling challenging problems, whether it’s optimizing system performance or diving into new tech, and I'm always eager to learn, innovate, and make an impact.
 
----
+## 🔥 What I Do  
+
+I build back-end systems, experiment with DevOps, and tinker with AI/ML projects—always pushing myself to learn, optimize, and create something cool. Whether it’s crafting microservices in Rust, messing with Kubernetes deployments, or diving into low-level systems, I love figuring out how things work and making them better.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-molchanov-aka-kiiier/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-molchanov-aka-kiiier/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiIIer)  
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-FA7F00?style=for-the-badge&logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/michael-molchanov)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-303030?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kiIIer)  
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19542193/kiiier)  
+
 
 ## 📊 GitHub Stats
 
