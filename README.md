@@ -1,76 +1,160 @@
-# 💫 About Me
+# Hi there, I'm Mike, aka kiIIer
 
-🎓 I am currently pursuing my undergraduate degree in Computer Science.  
-💻 My interests include web development, machine learning, data science and some low level no GC languages.  
-🌱 I am always eager to learn new things and expand my skillset.
+I'm a **4th-year Computer Science student** and a passionate **back-end developer** with over **3 years of experience** building scalable, secure systems. I love tackling challenging problems, whether it’s optimizing system performance or diving into new tech, and I'm always eager to learn, innovate, and make an impact.
+
+---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-molchanov-a107a01aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-molchanov-aka-kiiier/)
 
-# 💻 Tech Stack
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=kiIIer&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiIIer&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=kiIIer&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 👀 Profile Views
 
-![views](https://visitcount.itsvg.in/api?id=kiIIer&icon=2&color=4)
+## 🚀 Projects
 
-# 🚀 Projects
+### University Projects
+I maintain multiple university-related repositories that include my lecture notes, lab assignments, and other course materials. Look for all repositories with **kpi** in their names to explore my academic work and hands-on coding projects from my coursework.
 
-Please check my [crab-messenger](https://michaelmolchanov.visualstudio.com/crab-messenger) project, it's my attempt to write something enterprise-scale. I'm really proud of that one!
+### Crab Messenger
+- **Repository:** [crab-messenger](https://github.com/kiIIer/crab-messenger)
+- **Description:**  
+  This is my course project—a terminal-based messenger app written entirely in **Rust**.  
+  **Features include:**
+  - **Terminal Client:** Install the client on your machine.
+  - **Web Login:** Login via an Auth0 web page from your phone to retrieve a one-time code provided by the terminal client.
+  - **Chat Functionality:** Securely chat with friends using the same terminal client.
+  - **Reliable Server:** The server, also written in Rust, leverages **RabbitMQ** for messaging between multiple instances, ensuring reliability and scalability.
 
-Here are some of the projects I have worked on:
+### Kubernetes Ops
+- **Repository:** [kubernetes-ops](https://github.com/IA-15/kubernetes-ops)
+- **Description:**  
+  This project focuses on automating the deployment of a properly set-up **Amazon EKS** cluster using **Terraform**.  
+  **Highlights include:**
+  - Comprehensive **Terraform** configurations for infrastructure as code.
+  - Seamless integration with **AWS** to deploy and manage an EKS cluster.
+  - Implementation of best practices in Kubernetes operations and DevOps.
 
-- 📊 **Data Analysis with Python**: A collection of Jupyter Notebooks containing my exploratory data analysis and visualization projects using Python and its popular libraries. This code was written during internship at Nicolaus Copernicus University in Toruń.
-- 🎮 **Simple Games**: A collection of small games built with JavaScript, including a memory tic-tac-toe game and some other cli fun things.
-- :crab: **Rust**: A morse code messenger with gRPC and terminal user interface, because I love Rust and I know morse code.
+Feel free to explore these projects to see how I approach real-world challenges in both academia and industry!
 
-## 📚 University Repositories
 
-I also keep my university projects and assignments on my GitHub profile, including:
 
-- 📝 **Data Structures and Algorithms**: Implementation of various data structures and algorithms in Java and Golang, including linked lists, trees, sorting algorithms, and more.
-- 📊 **Database Management Systems**: SQL queries and projects involving database design and management using MySQL.
-- 🌐 **Web Programming**: Projects using Angular to build single page web applications.
+## 💻 Tech Stack
 
-These repositories can easily be found, they have "kpi" in them
+<h3 align="left">Programming Languages</h3>
+<p align="left">
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
 
-Thank you for visiting my GitHub profile!
+<h3 align="left">Front End</h3>
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Backend Development</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
+  </a>
+  <a href="https://nginx.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">AI / ML</h3>
+<p align="left">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Databases</h3>
+<p align="left">
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.cockroachlabs.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="CockroachDB" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">DevOps</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40"/>
+  </a>
+</p>
