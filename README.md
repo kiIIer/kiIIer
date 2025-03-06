@@ -20,7 +20,9 @@ I build back-end systems, experiment with DevOps, and tinker with AI/ML projects
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=kiIIer&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiIIer&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiIIer&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,jupyter%20notebook)
+
+
 
 ### 🏆 GitHub Trophies
 
